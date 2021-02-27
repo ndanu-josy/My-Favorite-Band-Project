@@ -14,13 +14,16 @@ h3{
 .container{
     width: fit-content;
    
-  
     padding: 5px;
     text-align: center;
     margin:0px 100px 0px 100px;
    
 
 }
+#background{
+    width: fit-content;
+}
+ol
 float: left;
     margin: 0px 10px 20px 0px;
     padding: 10px;
