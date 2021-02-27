@@ -1,6 +1,36 @@
 h1{
     text-align: center;
-    color: aqua;
-    background-color: black;
+    background-color: aqua;
+    margin: 0;
+}
+h2{
+    text-align: center;
+    color: hotpink;
+}
+h3{
+    color: blueviolet;
+    text-align: center;
+}
+.container{
+    width: fit-content;
+   
+  
+    padding: 5px;
+    text-align: center;
+    margin:0px 100px 0px 100px;
+   
 
 }
+float: left;
+    margin: 0px 10px 20px 0px;
+    padding: 10px;
+
+    width: 100px;
+    height: 100px;
+    color:white;
+    padding: 20px;
+    background-color: blue;
+    background-clip: content-box;
+    border: 10px outset grey;
+    margin: 20px;
+    text-align: center;
