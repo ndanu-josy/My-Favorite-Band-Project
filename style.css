@@ -23,17 +23,12 @@ h3{
 #background{
     width: fit-content;
 }
-ol
-float: left;
-    margin: 0px 10px 20px 0px;
-    padding: 10px;
-
-    width: 100px;
-    height: 100px;
-    color:white;
-    padding: 20px;
-    background-color: blue;
-    background-clip: content-box;
-    border: 10px outset grey;
-    margin: 20px;
-    text-align: center;
+ol{
+list-style-position: inside;
+background-color: cyan;
+text-align: left;
+border: 5px dotted black;
+}
+.members{
+    font-family: Georgia;
+}
