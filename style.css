@@ -9,7 +9,11 @@ h2{
 }
 h3{
     color: blueviolet;
-    text-align: center;
+    text-align: left;
+}
+h4{
+    font-size: large;
+    font-style: oblique;
 }
 .container{
     width: fit-content;
@@ -28,7 +32,47 @@ list-style-position: inside;
 background-color: cyan;
 text-align: left;
 border: 5px dotted black;
+width: 1200px;
+margin: 50px;
+
+}
+ul{
+    list-style-position: inside; 
 }
 .members{
     font-family: Georgia;
+   }
+.left{
+    float: left;
+    padding:0 20px 20px 0px;
+}
+.perrie{
+    border: 1px solid green;
+    height: 250px;
+    background-color: burlywood;
+    padding: 5px;
+    margin: 20px;
+  
+   
+}
+.jade{
+    border: 1px solid green;
+    height: 300px;
+    background-color: white;
+    padding:5px;
+    margin: 20px;
+}
+.pinnock{
+    border: 1px solid green;
+    height: 350px;
+    background-color: burlywood;
+    padding:5px;
+    margin: 20px;
+}
+.jessy{
+    border: 1px solid green;
+    height: 280px;
+    background-color: white;
+    padding:5px;
+    margin: 20px;
 }
